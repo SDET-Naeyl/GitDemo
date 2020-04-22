@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53361" started-at="2020-04-19T01:19:40 EDT" finished-at="2020-04-19T01:20:33 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53361" started-at="2020-04-19T01:19:40 EDT" finished-at="2020-04-19T01:20:33 EDT">
+      <class name="testPackage.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testPackage.LoginTest@6321e813]" name="setUp" is-config="true" duration-ms="14024" started-at="2020-04-19T01:19:40 EDT" finished-at="2020-04-19T01:19:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageValidation()[pri:1, instance:testPackage.LoginTest@6321e813]" name="loginPageValidation" duration-ms="225" started-at="2020-04-19T01:19:54 EDT" finished-at="2020-04-19T01:19:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testPackage.LoginTest@6321e813]" name="tearDown" is-config="true" duration-ms="3855" started-at="2020-04-19T01:19:54 EDT" finished-at="2020-04-19T01:19:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testPackage.LoginTest@6321e813]" name="setUp" is-config="true" duration-ms="11922" started-at="2020-04-19T01:19:58 EDT" finished-at="2020-04-19T01:20:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoValidation()[pri:2, instance:testPackage.LoginTest@6321e813]" name="logoValidation" duration-ms="477" started-at="2020-04-19T01:20:10 EDT" finished-at="2020-04-19T01:20:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testPackage.LoginTest@6321e813]" name="tearDown" is-config="true" duration-ms="3858" started-at="2020-04-19T01:20:10 EDT" finished-at="2020-04-19T01:20:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testPackage.LoginTest@6321e813]" name="setUp" is-config="true" duration-ms="11857" started-at="2020-04-19T01:20:14 EDT" finished-at="2020-04-19T01:20:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:testPackage.LoginTest@6321e813]" name="loginTest" duration-ms="3172" started-at="2020-04-19T01:20:26 EDT" finished-at="2020-04-19T01:20:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testPackage.LoginTest@6321e813]" name="tearDown" is-config="true" duration-ms="3860" started-at="2020-04-19T01:20:29 EDT" finished-at="2020-04-19T01:20:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
